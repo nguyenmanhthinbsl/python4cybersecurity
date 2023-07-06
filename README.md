@@ -3,7 +3,7 @@
 These scripts are designed to run using Python 3.  To use these scripts:
 
 Download repo
-```bash git clone https://github.com/nguyenmanhthinbsl/python4cybersecurity ```
+```git clone https://github.com/nguyenmanhthinbsl/python4cybersecurity ```
 
 
 
