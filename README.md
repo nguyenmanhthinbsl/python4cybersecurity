@@ -9,7 +9,7 @@ Download repo
 
 ## list of content: 
 1. [API](https://github.com/nguyenmanhthinbsl/python4cybersecurity/tree/master/api)
-2. Socket
+2. [Socket](https://github.com/nguyenmanhthinbsl/python4cybersecurity/tree/master/socket/TCP)
 3. Hashing password
 4. Logging
 5. Email
