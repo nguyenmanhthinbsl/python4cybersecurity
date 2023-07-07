@@ -13,7 +13,7 @@ Download repo
 3. Hashing password
 4. Logging
 5. Email
-6. Network scan
+6. [Scanning](https://github.com/nguyenmanhthinbsl/python4cybersecurity/tree/master/scanning)
 7. DNS lookup
 8. Autorun script
 9. Schedule
