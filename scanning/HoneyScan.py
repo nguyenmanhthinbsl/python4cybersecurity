@@ -1,8 +1,10 @@
-# this class show how to  defense scanning port
-
 from scapy.all import *
 
-ip = "172.26.32.1"
+'''
+foward scanning data from host to honeys host
+'''
+
+ip = "172.0.0.1"
 ports = [53, 80]
 honeys = [8080, 8443]
 
